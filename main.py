@@ -322,7 +322,7 @@ def checker_accov():
     
     vibor_2 = int(input("Выборите действие: "))
     if vibor_2 == 1:
-        path = (f"{config.get('settings', 'raksamp_directory')}\\chekcer\\mychecker\\for_proverka.txt")
+        path = (f"{config.get('settings', 'raksamp_directory')}\\checker\\for_proverka.txt")
         if os.path.exists(path):
             check_ss_akkov()
         else:
