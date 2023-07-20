@@ -15,7 +15,7 @@ Python скрипт: Перекинуть в папку "checker" main.py, herme
 Запуск:
 Открыть командную строку, перейти в папку с чекером (python скрипт), прописать main.py. Запустится этот скрипт, в первой вкладке настройки настраиваем чекер. Готово.
 
-Тема на Blast HK: пока еще не создал
+Тема на Blast HK: [клац](https://www.blast.hk/threads/183617/)
 
 Скриншот скрипта:
 ![image](https://github.com/Haymiritch/HermerChecker/assets/34934181/052ab991-ca37-44fc-94c7-8f9b95f42152)
